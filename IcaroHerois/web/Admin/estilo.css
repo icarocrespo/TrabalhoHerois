@@ -1,0 +1,41 @@
+.centro{
+    text-align: center;
+}
+div{
+    font-size: 125%;
+    border: solid;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+#cabecalho{
+     font-size: large;
+     text-align: center;
+}
+form{
+    font-size: medium;
+}
+a{
+    font-size: larger;
+    text-align: center;
+}
+table{
+    border:solid;
+    margin-top: 20px;  
+}
+td{
+    padding:5px;
+}
+#abc{
+    font-size: larger;
+}
+nav{
+    font-size: larger;    
+}
+form{
+    text-align: left;    
+}
+.abcd{
+    text-align: left;
+}
